@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-cols-3 gap-2 justify-between items-baseline max-w-lg">
-    <div class="bg-red-200">
-      <p class="line-clamp-1 ">
+    <div class="line-clamp-1 bg-red-200">
+      <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed elit
         quis lacus pellentesque hendrerit. Vivamus ex elit, sagittis sed neque
         et, tempor finibus libero. Nullam metus odio, porttitor quis purus non,
